@@ -1,3 +1,15 @@
+/*
+Задание про два пересикающихся списка.
+
+   - - - - - ->
+. . . . . . . . . . . . .
+    .    - - - ->
+    .  /\
+    .  |
+    .  |
+
+ */
+
 package com.company;
 import java.util.*;
 import java.util.ArrayList;
